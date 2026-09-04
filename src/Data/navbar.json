@@ -1,0 +1,9 @@
+[
+  { "id": "home", "label": "Home" },
+  { "id": "places", "label": "Places" },
+  { "id": "history", "label": "History" },
+  { "id": "food", "label": "Food" },
+  { "id": "culture", "label": "Culture" },
+  { "id": "nature", "label": "Nature" }
+  
+]

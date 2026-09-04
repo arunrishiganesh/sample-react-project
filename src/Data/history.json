@@ -1,0 +1,60 @@
+{
+  "hero": {
+    "title": "Stories of Madurai",
+    "description": "A city shaped by kings, temples, literature, trade and tradition.",
+    "cta": "Begin the journey",
+    "image": "history-hero.jpg"
+  },
+  "intro": {
+    "heading": "A City Written Into History",
+    "highlight": "Kings. Temples. Literature. Trade.",
+    "paragraphs": [
+      "Madurai's story stretches back over two thousand years, shaped by dynasties, scholars and traders who built one of South India's most enduring cities.",
+      "Madurai's story is not limited to monuments. Its history continues through its streets, festivals, food, language and traditions."
+    ]
+  },
+  "timeline": [
+    { "id": 1, "era": "Ancient Era", "title": "Early Madurai", "desc": "Formation of an important cultural and trading centre on the banks of the Vaigai." },
+    { "id": 2, "era": "Sangam Age", "title": "Literature & Trade", "desc": "A flourishing hub of Tamil literature, poetry and long-distance trade." },
+    { "id": 3, "era": "Pandya Period", "title": "Royal Madurai", "desc": "Capital of the Pandya dynasty, celebrated for its temples and governance." },
+    { "id": 4, "era": "Nayak Era", "title": "Architecture & Palaces", "desc": "Grand palaces and temple towers built under Thirumalai Nayak's rule." },
+    { "id": 5, "era": "Colonial Period", "title": "A Changing City", "desc": "New administration and infrastructure reshaped daily life in Madurai." },
+    { "id": 6, "era": "Modern Madurai", "title": "Living Heritage", "desc": "A thriving city where ancient traditions continue alongside modern life." }
+  ],
+  "rulers": [
+    { "id": 1, "name": "Kulasekara Pandyan", "period": "Pandya Dynasty", "image": "ruler1.jpg", "desc": "Credited with laying the early foundations of Madurai as a capital city." },
+    { "id": 2, "name": "Thirumalai Nayak", "period": "Nayak Era, 1623–1659", "image": "ruler2.jpg", "desc": "Commissioned the iconic palace and expanded the Meenakshi Temple complex." },
+    { "id": 3, "name": "Rani Mangammal", "period": "Nayak Regent", "image": "ruler3.jpg", "desc": "A respected regent known for public works, roads and rest houses." }
+  ],
+  "architecture": [
+    { "id": 1, "name": "Meenakshi Temple", "image": "meenakshi.jpg", "desc": "A masterpiece of Dravidian temple architecture, rebuilt over centuries." },
+    { "id": 2, "name": "Nayak Palace", "image": "palace.jpg", "desc": "Indo-Saracenic grandeur commissioned by Thirumalai Nayak in 1636." },
+    { "id": 3, "name": "Gandhi Museum", "image": "gandhi-museum.jpg", "desc": "Once a queen's palace, now home to India's freedom struggle history." },
+    { "id": 4, "name": "Heritage Sites", "image": "puthu-mandapam.jpg", "desc": "Pillared halls and mandapams that still shape daily city life." }
+  ],
+  "facts": [
+    { "id": 1, "text": "Madurai has been an important centre of Tamil culture and literature for centuries." },
+    { "id": 2, "text": "The city is often called the 'Athens of the East' for its Sangam-era literary legacy." },
+    { "id": 3, "text": "Meenakshi Temple's gopurams are covered in over 33,000 sculptures." }
+  ],
+  "thenNow": {
+    "then": { "label": "THEN", "points": ["Royal city", "Temple-centred", "Traditional trade", "Ancient culture"] },
+    "now": { "label": "NOW", "points": ["Modern city", "Heritage + tourism", "Modern markets", "Living culture"] }
+  },
+"experiences": [
+    { "id": 1, "icon": "🏛️", "text": "Visit the Temple" },
+    { "id": 2, "icon": "📸", "text": "See the Architecture" },
+    { "id": 3, "icon": "🍛", "text": "Taste Traditional Food" },
+    { "id": 4, "icon": "🎭", "text": "Experience Festivals" },
+    { "id": 5, "icon": "🛍️", "text": "Explore Old Markets" }
+],
+
+    "closing": {
+    "title": "The story of Madurai is still being written.",
+    "description": "Walk through its streets, taste its flavours, meet its traditions and become part of the story.",
+    "cta": "Explore Madurai →"
+  }
+}
+
+
+    

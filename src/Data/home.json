@@ -1,0 +1,64 @@
+{
+  "hero": {
+    "title": "Discover Madurai, One Direction at a Time.",
+    "description": "Explore the temples, flavours, stories, markets and experiences that make Madurai one of Tamil Nadu's most fascinating destinations.",
+    "primaryBtn": "Explore Madurai",
+    "secondaryBtn": "Plan My Visit"
+  },
+  "whyMadurai": [
+    { "id": 1, "icon": "🏛️", "title": "Heritage", "desc": "Discover centuries of history, architecture and traditions." },
+    { "id": 2, "icon": "🍛", "title": "Flavours", "desc": "Experience authentic Madurai food and famous local delicacies." },
+    { "id": 3, "icon": "🎭", "title": "Culture", "desc": "Explore festivals, crafts, traditions and everyday local life." },
+    { "id": 4, "icon": "🌿", "title": "Experiences", "desc": "Discover markets, neighbourhoods, viewpoints and places beyond the usual attractions." }
+  ],
+  "mustVisit": [
+    { "id": 1, "name": "Meenakshi Amman Temple", "category": "Temple", "desc": "Iconic twin-spired temple, heart of Madurai.", "image": "meenakshi.jpg" },
+    { "id": 2, "name": "Thirumalai Nayakkar Palace", "category": "Heritage", "desc": "17th-century Indo-Saracenic palace architecture.", "image": "palace.jpg" },
+    { "id": 3, "name": "Gandhi Memorial Museum", "category": "Museum", "desc": "Freedom struggle history housed in a former royal palace.", "image": "gandhi-museum.jpg" },
+    { "id": 4, "name": "Thirupparankundram", "category": "Temple", "desc": "Ancient rock-cut temple, one of Murugan's six abodes.", "image": "thirupparankundram.jpg" },
+    { "id": 5, "name": "Alagar Koyil", "category": "Temple", "desc": "Hillside temple central to the Chithirai festival.", "image": "alagar-koyil.jpg" },
+    { "id": 6, "name": "Puthu Mandapam", "category": "Market", "desc": "Historic pillared hall turned bustling tailoring market.", "image": "puthu-mandapam.jpg" }
+  ],
+  "tasteOfMadurai": [
+    { "id": 1, "name": "Jigarthanda", "desc": "Cooling drink with almond gum, milk and ice cream.", "image": "jigarthanda.jpg", "mustTry": true },
+    { "id": 2, "name": "Kari Dosa", "desc": "Crisp dosa loaded with spicy minced mutton.", "image": "kari-dosa.jpg", "mustTry": true },
+    { "id": 3, "name": "Parotta", "desc": "Layered flatbread, best with salna or curry.", "image": "parotta.jpg", "mustTry": false },
+    { "id": 4, "name": "Idiyappam", "desc": "Steamed rice noodles, a classic breakfast staple.", "image": "idiyappam.jpg", "mustTry": false },
+    { "id": 5, "name": "Bun Parotta", "desc": "Soft, fluffy parotta variant loved as a street snack.", "image": "bun-parotta.jpg", "mustTry": true },
+    { "id": 6, "name": "Filter Coffee", "desc": "Strong South Indian coffee, brewed the traditional way.", "image": "filter-coffee.jpg", "mustTry": false }
+  ],
+  "cityStory": {
+    "intro": "More than a destination, Madurai is a living story.",
+    "timeline": [
+      { "id": 1, "era": "Ancient Madurai" },
+      { "id": 2, "era": "Pandya Kingdom" },
+      { "id": 3, "era": "Nayak Era" },
+      { "id": 4, "era": "Colonial Period" },
+      { "id": 5, "era": "Modern Madurai" }
+    ]
+  },
+  "experience": [
+    { "id": 1, "time": "Morning", "icon": "🌄", "activities": ["Meenakshi Temple", "Flower Market", "Local breakfast"] },
+    { "id": 2, "time": "Afternoon", "icon": "☀️", "activities": ["Palace", "Museum", "Local shopping"] },
+    { "id": 3, "time": "Evening", "icon": "🌆", "activities": ["Temple surroundings", "Street food", "Local markets"] },
+    { "id": 4, "time": "Night", "icon": "🌙", "activities": ["Jigarthanda", "Night food spots", "Evening atmosphere"] }
+  ],
+  "travelGuide": [
+    { "id": 1, "label": "Best Time", "value": "October – March" },
+    { "id": 2, "label": "Ideal Duration", "value": "2–3 days" },
+    { "id": 3, "label": "Experience", "value": "Heritage + Food + Culture" },
+    { "id": 4, "label": "Transport", "value": "Bus + Auto + Cab" },
+    { "id": 5, "label": "Language", "value": "Tamil + English" }
+  ],
+  "travelTips": [
+    { "id": 1, "icon": "👟", "title": "Dress Comfortably", "desc": "Choose comfortable clothing and footwear when exploring temples and markets." },
+    { "id": 2, "icon": "💧", "title": "Stay Hydrated", "desc": "Keep water with you, especially while exploring outdoor attractions." },
+    { "id": 3, "icon": "📷", "title": "Respect Local Spaces", "desc": "Follow photography rules and respect temple customs." },
+    { "id": 4, "icon": "🕐", "title": "Start Early", "desc": "Starting early helps you explore popular places more comfortably." }
+  ],
+  "finalCTA": {
+    "title": "Your Madurai adventure starts here.",
+    "primaryBtn": "Explore Places",
+    "secondaryBtn": "Plan Your Trip"
+  }
+}

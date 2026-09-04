@@ -1,0 +1,117 @@
+{
+  "hero": {
+    "eyebrow": "THE SOUL OF MADURAI",
+    "title": "When Madurai Comes Alive",
+    "description": "In Madurai, festivals are not events you simply watch. Streets become stages, temples become living stories, and entire neighbourhoods move together in celebration."
+  },
+
+  "festivalJourney": [
+    {
+      "id": 1,
+      "number": "01",
+      "title": "Kodi Yetram",
+      "subtitle": "The city receives its invitation",
+      "description": "The ceremonial flag hoisting marks the opening of the Chithirai celebrations. From this moment, the temple and surrounding streets begin preparing for days of processions and rituals."
+    },
+    {
+      "id": 2,
+      "number": "02",
+      "title": "Meenakshi Pattabhishekam",
+      "subtitle": "A queen takes her place",
+      "description": "Goddess Meenakshi is ceremonially crowned, celebrating her as the powerful queen of Madurai."
+    },
+    {
+      "id": 3,
+      "number": "03",
+      "title": "Meenakshi Digvijayam",
+      "subtitle": "The warrior queen journeys forth",
+      "description": "The celebration recalls Meenakshi's victorious journey and presents her in a powerful royal and warrior form."
+    },
+    {
+      "id": 4,
+      "number": "04",
+      "title": "Meenakshi Thirukalyanam",
+      "subtitle": "The celestial wedding",
+      "description": "One of the emotional highlights of Chithirai is the sacred wedding of Meenakshi and Sundareswarar, celebrated with elaborate rituals, decorations and processions."
+    },
+    {
+      "id": 5,
+      "number": "05",
+      "title": "Therottam",
+      "subtitle": "When the streets move together",
+      "description": "The decorated temple chariot travels through the streets as devotees gather and participate in the traditional procession."
+    },
+    {
+      "id": 6,
+      "number": "06",
+      "title": "Edhir Sevai",
+      "subtitle": "Madurai welcomes Kallazhagar",
+      "description": "Kallazhagar's arrival transforms the city into another enormous celebration, with devotees gathering to welcome him."
+    },
+    {
+      "id": 7,
+      "number": "07",
+      "title": "Kallazhagar & The Vaigai",
+      "subtitle": "The moment the whole city waits for",
+      "description": "Kallazhagar makes his ceremonial entry into the Vaigai River, creating one of the most spectacular scenes of Madurai's festival calendar."
+    }
+  ],
+
+  "otherCelebrations": [
+    {
+      "id": 1,
+      "title": "Jallikattu",
+      "tag": "VALOUR",
+      "icon": "🐂",
+      "description": "During Pongal season, the villages around Madurai become arenas of Tamil tradition, courage and pride through Jallikattu."
+    },
+    {
+      "id": 2,
+      "title": "Theppa Thiruvizha",
+      "tag": "WATER & LIGHT",
+      "icon": "🪷",
+      "description": "The temple deities are taken in procession to the Mariamman Teppakulam, where the evening becomes a beautiful celebration of water, lamps and devotion."
+    },
+    {
+      "id": 3,
+      "title": "Avanimoolam",
+      "tag": "STORIES",
+      "icon": "📖",
+      "description": "The festival brings stories of Shiva's traditional 64 divine plays to life through temple rituals and performances."
+    },
+    {
+      "id": 4,
+      "title": "Navarathri",
+      "tag": "GRACE",
+      "icon": "🌺",
+      "description": "For nine nights, Meenakshi is celebrated in different forms while the temple glows with lamps and traditional decorations."
+    }
+  ],
+
+  "experience": [
+    {
+      "id": 1,
+      "title": "See",
+      "icon": "👁️",
+      "text": "Towering gopurams, decorated deities, flower garlands, silk and illuminated streets."
+    },
+    {
+      "id": 2,
+      "title": "Hear",
+      "icon": "🥁",
+      "text": "Temple bells, traditional instruments, devotional songs and the energy of enormous crowds."
+    },
+    {
+      "id": 3,
+      "title": "Taste",
+      "icon": "🍛",
+      "text": "Festival food, street snacks and the flavours of a city that loves to eat together."
+    },
+    {
+      "id": 4,
+      "title": "Feel",
+      "icon": "❤️",
+      "text": "A sense of belonging where visitors, families, devotees and entire neighbourhoods share the same celebration."
+    }
+  ]
+}

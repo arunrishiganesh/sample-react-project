@@ -1,0 +1,42 @@
+{
+  "brand": {
+    "name": "Madurai Compass",
+    "tagline": "Your guide to temples, flavours, stories and everyday life in Tamil Nadu's Temple City.",
+    "socials": ["📷", "📘", "🐦", "▶️"]
+  },
+  "columns": [
+    {
+      "id": 1,
+      "title": "Explore",
+      "links": [
+        "Places to Visit",
+        "History & Heritage",
+        "Food Explorer",
+        "Culture & Experiences"
+      ]
+    },
+    {
+      "id": 2,
+      "title": "Plan Your Trip",
+      "links": [
+        "Travel Planner",
+        "Nature & Nearby Places",
+        "Best Time to Visit",
+        "Travel Tips",
+        "Getting Around"
+      ]
+    }
+  ],
+  "contact": {
+    "title": "Get in Touch",
+    "items": [
+      "📍 Madurai, Tamil Nadu, India",
+      "✉️ hello@maduraicompass.in",
+      "📞 +91 3456557564"
+    ]
+  },
+  "bottomBar": {
+    
+    "note": "Made with ❤️ for the Temple City"
+  }
+}

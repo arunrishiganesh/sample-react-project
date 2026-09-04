@@ -1,0 +1,101 @@
+{
+  "stats": [
+    { "id": 1, "label": "Places", "value": "25+" },
+    { "id": 2, "label": "Categories", "value": "6" },
+    { "id": 3, "label": "Suggested Routes", "value": "3" },
+    { "id": 4, "label": "City to Discover", "value": "1" }
+  ],
+  "categories": ["All", "Heritage", "Temples", "History", "Nature", "Shopping", "Family"],
+  "featured": {
+    "id": 1,
+    "name": "Meenakshi Amman Temple",
+    "category": "Heritage",
+    "badge": "Must Visit",
+    "image": "meenakshi.jpg",
+    "desc": "The iconic twin-spired temple at the heart of Madurai, famous for its towering gopurams covered in thousands of painted sculptures."
+  },
+  "places": [
+    { "id": 2, "name": "Thirumalai Nayakkar Palace", "category": "Heritage", "image": "palace.jpg", "rating": 4 },
+    { "id": 3, "name": "Gandhi Memorial Museum", "category": "History", "image": "gandhi-museum.jpg", "rating": 4 },
+    { "id": 4, "name": "Thirupparankundram", "category": "Temples", "image": "thirupparankundram.jpg", "rating": 5 },
+    { "id": 5, "name": "Alagar Koyil", "category": "Temples", "image": "alagar-koyil.jpg", "rating": 4 },
+    { "id": 6, "name": "Puthu Mandapam", "category": "Shopping", "image": "puthu-mandapam.jpg", "rating": 4 },
+    { "id": 7, "name": "Vaigai Dam", "category": "Nature", "image": "vaigai-dam.jpg", "rating": 4 },
+    { "id": 8, "name": "Government Museum", "category": "History", "image": "govt-museum.jpg", "rating": 3 },
+    { "id": 9, "name": "Pazhamudhir Solai", "category": "Nature", "image": "pazhamudhir-solai.jpg", "rating": 4 }
+  ],
+  "experiences": [
+    { "id": 1, "icon": "🏛️", "title": "Heritage Buff", "desc": "Discover centuries of stories." },
+    { "id": 2, "icon": "📷", "title": "Photographer", "desc": "Find architecture and scenic spots." },
+    { "id": 3, "icon": "🍛", "title": "Food Explorer", "desc": "Follow the flavours of Madurai." },
+    { "id": 4, "icon": "🌿", "title": "Peace Seeker", "desc": "Escape into calmer surroundings." }
+  ],
+  "routes": [
+    {
+      "id": 1,
+      "icon": "🛕",
+      "title": "One-Day Heritage Route",
+      "stops": ["Morning: Meenakshi Temple", "Afternoon: Thirumalai Nayakkar Palace", "Evening: Gandhi Museum", "Evening: Local Market"]
+    },
+    {
+      "id": 2,
+      "icon": "🌿",
+      "title": "Peaceful Day Route",
+      "stops": ["Morning: Thirupparankundram", "Afternoon: Alagar Koyil", "Evening: Local Food Stop"]
+    }
+  ],
+
+  "hotels": [
+  {
+    "id": 1,
+    "name": "Heritage Madurai",
+    "type": "Luxury Heritage Resort",
+    "location": "Melakkal Main Road, Madurai",
+    "image": "hotel1.jpg",
+    "rating": 5,
+    "priceRange": "₹8,000 - ₹12,000/night",
+    "highlight": "Restored heritage bungalows around a 200-year-old banyan tree"
+  },
+  {
+    "id": 2,
+    "name": "Gateway Madurai (Pasumalai Hill)",
+    "type": "5-Star Hillside Resort",
+    "location": "Pasumalai Hill, Madurai",
+    "image": "hotel2.jpg",
+    "rating": 5,
+    "priceRange": "₹6,500 - ₹9,500/night",
+    "highlight": "62 acres of gardens with views of Meenakshi Temple and the Kodai hills"
+  },
+  {
+    "id": 3,
+    "name": "Fortune Pandiyan Hotel",
+    "type": "Business & Leisure Hotel",
+    "location": "Race Course Road, Madurai",
+    "image": "hotel3.jpg",
+    "rating": 4,
+    "priceRange": "₹3,500 - ₹5,000/night",
+    "highlight": "Central location with free onsite parking, close to the city center"
+  },
+  {
+    "id": 4,
+    "name": "Madurai Residency",
+    "type": "Budget-Friendly Stay",
+    "location": "Near Periyar Bus Stand, Madurai",
+    "image": "hotel4.jpg",
+    "rating": 3,
+    "priceRange": "₹1,800 - ₹2,800/night",
+    "highlight": "Walking distance to the bus station, with a rooftop restaurant"
+  }
+],
+
+  "comparison": {
+    "categories": ["Temple", "History", "Nature", "Family"],
+    "rows": [
+      { "id": 1, "name": "Meenakshi Temple", "fits": [true, false, false, true] },
+      { "id": 2, "name": "Museum", "fits": [false, true, false, true] },
+      { "id": 3, "name": "Alagar Koyil", "fits": [true, false, true, true] }
+    ]
+  }
+}
+
+  

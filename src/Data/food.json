@@ -1,0 +1,84 @@
+{
+  "hero": {
+    "title": "Taste of Madurai",
+    "subtitle": "A city best explored one bite at a time",
+    "tagline": "Explore • Taste • Repeat",
+    "image": "food-hero.jpg"
+  },
+  "intro": {
+    "heading": "Madurai on a Plate",
+    "description": "From crispy dosas to chilled Jigarthanda, Madurai's food culture is bold, colourful and deeply connected to everyday life.",
+    "stats": [
+      { "id": 1, "value": "20+", "label": "Must-Try Foods" },
+      { "id": 2, "value": "6", "label": "Food Categories" },
+      { "id": 3, "value": "4", "label": "Food Moments" }
+    ]
+  },
+  "categories": [
+    { "id": "breakfast", "icon": "🌅", "label": "Breakfast" },
+    { "id": "main", "icon": "🍛", "label": "Main Course" },
+    { "id": "street", "icon": "🌶️", "label": "Street Food" },
+    { "id": "drinks", "icon": "🥤", "label": "Drinks" },
+    { "id": "sweets", "icon": "🍬", "label": "Sweets" }
+    
+  ],
+  "iconicFoods": [
+    { "id": 1, "name": "Jigarthanda", "category": "drinks", "tags": ["Drink", "Refreshing"], "image": "jigarthanda.jpg", "desc": "The legendary chilled drink associated with Madurai." },
+    { "id": 2, "name": "Kari Dosa", "category": "main", "tags": ["Main", "Spicy"], "image": "kari-dosa.jpg", "desc": "Crisp dosa loaded with spicy minced mutton filling." },
+    { "id": 3, "name": "Bun Parotta", "category": "street", "tags": ["Street Food", "Crispy"], "image": "bun-parotta.jpg", "desc": "Soft, fluffy parotta variant loved as an evening snack." },
+    { "id": 4, "name": "Parotta", "category": "main", "tags": ["Main", "Crispy"], "image": "parotta.jpg", "desc": "Layered flatbread, best paired with salna or curry." },
+    { "id": 5, "name": "Kothu Parotta", "category": "street", "tags": ["Street Food", "Spicy"], "image": "kothu-parotta.jpg", "desc": "Shredded parotta stir-fried with egg, meat and spices." },
+    { "id": 6, "name": "Idiyappam", "category": "breakfast", "tags": ["Breakfast", "Light"], "image": "idiyappam.jpg", "desc": "Steamed rice noodles, a gentle everyday breakfast staple." },
+    { "id": 7, "name": "Paruthi Paal", "category": "drinks", "tags": ["Drink", "Sweet"], "image": "paruthi-paal.jpg", "desc": "Traditional cottonseed milk, a Madurai specialty drink." },
+    { "id": 8, "name": "Madurai Biriyani", "category": "main", "tags": ["Main", "Rich"], "image": "biriyani.jpg", "desc": "Fragrant, spiced rice dish unique to the region's kitchens." },
+    { "id": 9, "name": "Ghee Dosa", "category": "breakfast", "tags": ["Breakfast", "Crispy"], "image": "ghee-dosa.jpg", "desc": "A classic dosa brushed generously with ghee for a rich, crisp bite." },
+    { "id": 10, "name": "Podi Idly", "category": "breakfast", "tags": ["Breakfast", "Spicy"], "image": "podi-idly.jpg", "desc": "Soft idlies tossed in spiced lentil podi and sesame oil." },
+    { "id": 11, "name": "Butter Bun", "category": "sweets", "tags": ["Sweet", "Soft"], "image": "butter-bun.jpg", "desc": "A warm, soft bun served with a generous slab of butter." },
+    { "id": 12, "name": "Halwa", "category": "sweets", "tags": ["Sweet", "Traditional"], "image": "halwa.jpg", "desc": "A glossy, chewy South Indian sweet made with ghee and sugar." }
+  ],
+  "timeOfDay": [
+    { "id": 1, "time": "Morning", "icon": "🌅", "foods": ["Idli", "Dosa", "Idiyappam"] },
+    { "id": 2, "time": "Afternoon", "icon": "☀️", "foods": ["Meals", "Biriyani", "Kari Dosa"] },
+    { "id": 3, "time": "Evening", "icon": "🌆", "foods": ["Parotta", "Street Food", "Bajji"] },
+    { "id": 4, "time": "Night", "icon": "🌙", "foods": ["Kothu Parotta", "Jigarthanda"] }
+  ],
+  "flavours": [
+    { "id": 1, "icon": "🌶️", "label": "Spicy", "foods": ["Kari Dosa", "Kothu Parotta", "Chicken dishes"] },
+    { "id": 2, "icon": "🍬", "label": "Sweet", "foods": ["Jigarthanda", "Traditional sweets", "Paruthi Paal"] },
+    { "id": 3, "icon": "🥨", "label": "Crispy", "foods": ["Parotta", "Murukku", "Bajji"] },
+    { "id": 4, "icon": "🥤", "label": "Refreshing", "foods": ["Jigarthanda", "Fresh juices", "Paruthi Paal"] },
+    { "id": 5, "icon": "🍛", "label": "Rich & Savoury", "foods": ["Biriyani", "Meals", "Kari Dosa"] }
+  ],
+  "famousFoods": [
+    { "id": "breakfast", "title": "Breakfast", "items": ["Idli", "Dosa", "Idiyappam", "Pongal"] },
+    { "id": "main", "title": "Main Course", "items": ["South Indian Meals", "Kari Dosa", "Biriyani", "Parotta"] },
+    { "id": "street", "title": "Street Food / Snacks", "items": ["Kothu Parotta", "Bun Parotta", "Murukku", "Bajji"] },
+    { "id": "drinks", "title": "Drinks / Traditional", "items": ["Jigarthanda", "Paruthi Paal", "Filter Coffee"] },
+    { "id": "sweets", "title": "Sweets", "items": ["Halwa", "Traditional South Indian Sweets"] }
+  ],
+  "foodStories": [
+    { "id": 1, "name": "Jigarthanda", "icon": "🥤", "image": "jigarthanda.jpg", "quote": "The drink that became part of Madurai's identity.", "story": "Made with almond gum, milk, and a scoop of ice cream, this chilled drink has cooled Madurai's streets for over a century." },
+    { "id": 2, "name": "Kari Dosa", "icon": "🍛", "image": "kari-dosa.jpg", "quote": "Where breakfast meets bold flavour.", "story": "A crisp dosa generously topped with spicy minced mutton — a dish that turned street food into a local legend." },
+    { "id": 3, "name": "Bun Parotta", "icon": "🥖", "image": "bun-parotta.jpg", "quote": "Soft, simple, and endlessly loved.", "story": "Thicker and fluffier than regular parotta, this evening favourite pairs perfectly with a spicy salna." },
+    { "id": 4, "name": "Paruthi Paal", "icon": "🌾", "image": "paruthi-paal.jpg", "quote": "A taste passed down through generations.", "story": "Cottonseed milk, sweetened and spiced — a traditional drink increasingly rare outside Madurai's old town." }
+  ],
+  "foodTrail": [
+    { "id": 1, "icon": "🌅", "time": "Breakfast", "food": "Traditional Breakfast" },
+    { "id": 2, "icon": "🍛", "time": "Lunch", "food": "Madurai Meals / Kari Dosa" },
+    { "id": 3, "icon": "🌶️", "time": "Evening Snack", "food": "Street Food" },
+    { "id": 4, "icon": "🥤", "time": "Night Drink", "food": "Jigarthanda + Bun Parotta" }
+  ],
+  "checklist": ["Jigarthanda", "Kari Dosa", "Bun Parotta", "Kothu Parotta", "Paruthi Paal", "Local Breakfast", "Traditional Meals"],
+  "tips": [
+    { "id": 1, "icon": "💧", "text": "Carry Water" },
+    { "id": 2, "icon": "🌶️", "text": "Ask About Spice Level" },
+    { "id": 3, "icon": "🥘", "text": "Try Small Portions First" },
+    { "id": 4, "icon": "🕐", "text": "Popular Spots May Be Busy" },
+    { "id": 5, "icon": "📍", "text": "Explore Local Areas" }
+  ],
+  "closing": {
+    "title": "Ready to taste Madurai?",
+    "description": "Your journey doesn't end at the landmarks. Sometimes the best memories come from the plate.",
+    "cta": "Explore Madurai →"
+  }
+}
